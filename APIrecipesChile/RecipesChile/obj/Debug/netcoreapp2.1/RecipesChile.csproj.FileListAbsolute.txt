@@ -1,0 +1,14 @@
+/Users/pablogarrido/Desktop/Repositorios/API-rikii-internacional/APIrecipesChile/RecipesChile/bin/Debug/netcoreapp2.1/RecipesChile.deps.json
+/Users/pablogarrido/Desktop/Repositorios/API-rikii-internacional/APIrecipesChile/RecipesChile/bin/Debug/netcoreapp2.1/RecipesChile.runtimeconfig.json
+/Users/pablogarrido/Desktop/Repositorios/API-rikii-internacional/APIrecipesChile/RecipesChile/bin/Debug/netcoreapp2.1/RecipesChile.runtimeconfig.dev.json
+/Users/pablogarrido/Desktop/Repositorios/API-rikii-internacional/APIrecipesChile/RecipesChile/bin/Debug/netcoreapp2.1/RecipesChile.dll
+/Users/pablogarrido/Desktop/Repositorios/API-rikii-internacional/APIrecipesChile/RecipesChile/bin/Debug/netcoreapp2.1/RecipesChile.pdb
+/Users/pablogarrido/Desktop/Repositorios/API-rikii-internacional/APIrecipesChile/RecipesChile/obj/Debug/netcoreapp2.1/RecipesChile.csproj.CoreCompileInputs.cache
+/Users/pablogarrido/Desktop/Repositorios/API-rikii-internacional/APIrecipesChile/RecipesChile/obj/Debug/netcoreapp2.1/RecipesChile.RazorAssemblyInfo.cache
+/Users/pablogarrido/Desktop/Repositorios/API-rikii-internacional/APIrecipesChile/RecipesChile/obj/Debug/netcoreapp2.1/RecipesChile.RazorAssemblyInfo.cs
+/Users/pablogarrido/Desktop/Repositorios/API-rikii-internacional/APIrecipesChile/RecipesChile/obj/Debug/netcoreapp2.1/RecipesChile.AssemblyInfoInputs.cache
+/Users/pablogarrido/Desktop/Repositorios/API-rikii-internacional/APIrecipesChile/RecipesChile/obj/Debug/netcoreapp2.1/RecipesChile.AssemblyInfo.cs
+/Users/pablogarrido/Desktop/Repositorios/API-rikii-internacional/APIrecipesChile/RecipesChile/obj/Debug/netcoreapp2.1/RecipesChile.RazorTargetAssemblyInfo.cache
+/Users/pablogarrido/Desktop/Repositorios/API-rikii-internacional/APIrecipesChile/RecipesChile/obj/Debug/netcoreapp2.1/RecipesChile.dll
+/Users/pablogarrido/Desktop/Repositorios/API-rikii-internacional/APIrecipesChile/RecipesChile/obj/Debug/netcoreapp2.1/RecipesChile.pdb
+/Users/pablogarrido/Desktop/Repositorios/API-rikii-internacional/APIrecipesChile/RecipesChile/obj/Debug/netcoreapp2.1/RecipesChile.csprojAssemblyReference.cache
